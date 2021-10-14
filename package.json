@@ -1,0 +1,24 @@
+{
+  "name": "node-action-test",
+  "version": "1.0.0",
+  "description": "Teszt Github Actions with a minimal node project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.2.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanarurkerem/node-action-test.git"
+  },
+  "keywords": [],
+  "author": "Palocz Istvan (pp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanarurkerem/node-action-test/issues"
+  },
+  "homepage": "https://github.com/tanarurkerem/node-action-test#readme"
+}
